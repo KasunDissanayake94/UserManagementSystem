@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringBoot Client Server Application
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Kasun Dissanayake
+Implementation-Vendor-Id: com.rst.boot
+Build-Jdk: 1.8.0_151
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/springboot-clientserver
+Created-By: Maven Integration for Eclipse
+
